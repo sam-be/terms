@@ -1,0 +1,8 @@
+  numpy
+  itertools
+  sklearn
+  nltk
+  requests
+  pandas
+  readability
+  re
